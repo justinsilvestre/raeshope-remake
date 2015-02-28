@@ -70,10 +70,10 @@
 }
 .nav {
 	width:100%;
- 	padding: 0px 8px 0px 8px;
+ 	
 }
 #menu {
-	
+	padding: 0px 8px 0px 8px;
 }
 #menu > li {
 	text-transform: uppercase;
@@ -86,7 +86,7 @@
 	line-height: 75px;
 	color: #eeeeee;
 	text-transform: uppercase;
-	padding: 0 26px 0 25px;
+	padding: 0 25px 0 25px;
 	text-shadow: 1px 1px 0px #7c3f29;
 	display: block;
 	float: left;
